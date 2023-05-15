@@ -11,6 +11,8 @@ public class B {
 		System.out.println("introduce un numero");
 		Scanner ent = new Scanner(System.in);
 		i=ent.nextInt();
+		
+		System.out.println("cambios Rama1");
 
 	}
 
